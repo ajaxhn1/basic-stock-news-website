@@ -6,7 +6,7 @@ const stockData = [
     name: "Coal India",
     sector: "Power and Minning",
     price: 298,
-    photoName: `${import.meta.env.BASE_URL}images/coalindia.jpg`,
+    photoName: import.meta.env.BASE_URL + "images/Bharatpetroleum.jpg",
     trending: false,
   },
   {
