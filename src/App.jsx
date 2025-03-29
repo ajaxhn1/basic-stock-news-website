@@ -27,7 +27,7 @@ const stockData = [
     name: "HDFC Bank",
     sector: "Banking and Finance",
     price: 1500,
-    photoName: import.meta.env.BASE_URL + "images/hdfcbank.jpg",
+    photoName: import.meta.env.BASE_URL + "public/images/hdfcbank.jpg",
     trending: false,
   },
   {
