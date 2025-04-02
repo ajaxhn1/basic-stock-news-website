@@ -17,7 +17,7 @@ const stockData = [
     trending: false,
   },
   {
-    name: "BPCLL",
+    name: "BPCL",
     sector: "oil and petroleum",
     price: 356,
     photoName: import.meta.env.BASE_URL + "images/Bharatpetroleum.jpg",
